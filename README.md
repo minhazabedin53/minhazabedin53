@@ -19,7 +19,7 @@
 
 > *Note: Stats reflect public repositories only.*
 
-*ReactJS
+* ReactJS
 * JavaScript
 * Python
 * C / C++
