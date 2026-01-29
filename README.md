@@ -1,16 +1,72 @@
-## Hi there 👋
+## Hi there! 👋 I’m Minhaz
 
-<!--
-**minhazabedin53/minhazabedin53** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Software Development student** at Seneca Polytechnic. I’m especially interested in **data, backend systems, and full-stack development**, and I like working on projects that turn messy inputs into clean, usable solutions.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🤔 My Interests
+
+🔨 Programming & problem solving
+📊 Data analysis & visualization
+🌐 Building web apps & APIs
+⚙️ Backend systems & automation
+🎮 Gaming (when the compiler finally cooperates)
+📚 Learning new tools, frameworks, and technologies
+
+---
+
+### ⛏️ Top-Used Languages
+
+> *Note: Stats reflect public repositories only.*
+
+*ReactJS
+* JavaScript
+* Python
+* C / C++
+
+---
+
+### 🔭 What I’m Currently Working On
+
+* Backend services and APIs using **Node.js & Express**
+* Data cleaning and visualization projects with **Python (Pandas, Matplotlib, Plotly)**
+* Dashboarding and reporting using **Power BI & SQL**
+* Improving existing projects with better structure, testing, and documentation
+
+---
+
+### 🎓 Learned Through School & Projects
+
+👨‍💻 C / C++
+🌐 HTML, CSS, JavaScript
+⚙️ Node.js, Express
+📃 MongoDB, Mongoose
+💽 PostgreSQL, MySQL
+🔐 REST APIs & authentication
+⚛️ React
+📊 SQL & database design
+📈 Power BI, Tableau
+🧪 Testing (Jest, basic unit/integration tests)
+📃 Git & GitHub
+📋 Agile / Scrum, Jira
+
+---
+
+### 🌱 Currently Learning & Exploring
+
+🐍 Python for analytics & automation
+📊 Advanced data visualization & storytelling
+☁️ Cloud fundamentals (AWS)
+🐳 Docker & containerization
+📦 CI/CD concepts
+🧠 Writing cleaner, more maintainable code
+
+---
+
+### 📫 Get in Touch
+
+💬 Always open to collaborating, learning, or just talking tech
+📧 Email: [mabedin1@myseneca.ca](mailto:mabedin1@myseneca.ca)
+🔗 GitHub: right here 👀
+
+---
