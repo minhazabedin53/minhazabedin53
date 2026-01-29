@@ -16,13 +16,10 @@
 ---
 
 ### ⛏️ Top-Used Languages
-
-> *Note: Stats reflect public repositories only.*
-
-* ReactJS
 * JavaScript
 * Python
 * C / C++
+* HTML / CSS
 
 ---
 
