@@ -38,16 +38,27 @@
 ### 🎓 Learned Through School & Projects
 
 👨‍💻 C / C++
+
 🌐 HTML, CSS, JavaScript
+
 ⚙️ Node.js, Express
+
 📃 MongoDB, Mongoose
+
 💽 PostgreSQL, MySQL
+
 🔐 REST APIs & authentication
+
 ⚛️ React
+
 📊 SQL & database design
-📈 Power BI, Tableau
+
+📈 Power BI, Pandas, NumPy
+
 🧪 Testing (Jest, basic unit/integration tests)
+
 📃 Git & GitHub
+
 📋 Agile / Scrum, Jira
 
 ---
@@ -55,10 +66,15 @@
 ### 🌱 Currently Learning & Exploring
 
 🐍 Python for analytics & automation
+
 📊 Advanced data visualization & storytelling
+
 ☁️ Cloud fundamentals (AWS)
+
 🐳 Docker & containerization
+
 📦 CI/CD concepts
+
 🧠 Writing cleaner, more maintainable code
 
 ---
@@ -66,7 +82,9 @@
 ### 📫 Get in Touch
 
 💬 Always open to collaborating, learning, or just talking tech
+
 📧 Email: [mabedin1@myseneca.ca](mailto:mabedin1@myseneca.ca)
+
 🔗 GitHub: right here 👀
 
 ---
