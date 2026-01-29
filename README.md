@@ -85,6 +85,4 @@
 
 📧 Email: [mabedin1@myseneca.ca](mailto:mabedin1@myseneca.ca)
 
-🔗 GitHub: right here 👀
-
 ---
